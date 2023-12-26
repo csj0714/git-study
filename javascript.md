@@ -1,5 +1,5 @@
 category: javascript
-title: css basic
+title: javascript basic
 lectures: Shin
 related:
 

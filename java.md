@@ -7,4 +7,4 @@ related:
 - eclipse
 - java springboot
 - exception
-- extends
+- inherit
